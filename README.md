@@ -20,3 +20,10 @@ You see what you get
        | \__         \____)  /.
        |    \_nnnnnnnnn_ __./
 ```
+
+Ah before I forget (again). Use it like this:
+```
+const pickleRick = require('pickle-rick')
+
+pickleRick()
+```
