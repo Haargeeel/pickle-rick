@@ -1,0 +1,24 @@
+{
+  "name": "pickle-rick",
+  "version": "0.1.0",
+  "description": "Put PICKLE RIIIICK in your console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haargeeel/pickle-rick.git"
+  },
+  "keywords": [
+    "stupid",
+    "pickle",
+    "rick"
+  ],
+  "author": "haargeeel <ray.g@gmx.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Haargeeel/pickle-rick/issues"
+  },
+  "homepage": "https://github.com/Haargeeel/pickle-rick#readme"
+}
